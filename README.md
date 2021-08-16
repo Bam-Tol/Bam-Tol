@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GeonHo Kim
-- 👀 I’m interested in Baysian Optimization, Imbalanced Data Analysis, Transfer Learning, Effective Loss Function & Metrics
-- 🌱 I’m currently learning Auto Stock Trading System
+- 👀 I’m interested in Baysian Optimization, Imbalanced Data Analysis, Transfer Learning, Effective Loss Function & Metrics.
+- 🌱 I’m developing an Auto Stock Trading System as a hobby.
 - 📫 How to reach me is to contact krox6466@gmail.com
 
 <!---
